@@ -1,0 +1,34 @@
+which variants are present in which samples?
+>SRR2584403_1
+#CHROM	POS	  ID	  REF	ALT	
+ecoli	1329520	.	    T	  G	
+ecoli	4141016	.	    C	  A
+
+>SRR2584404_1
+#CHROM	POS	    ID	REF	  ALT	
+ecoli	  238917	.	  G	    T	
+ecoli	  806308	.	  ATT	  AT	(Deletion)
+ecoli	  1329520	.	  T	G	
+ecoli	  4141016	.	  C	A	
+
+>SRR2584405_1
+#CHROM	POS	  ID	REF	                              ALT	
+ecoli	649522	.	  C	                                T	
+ecoli	708118	.	  T	                                C	
+ecoli	1733754	.	  A	                                T	
+ecoli	2103887	.	  ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG	ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG
+ecoli	3762120	.	  C	A
+
+>SRR2584857_1
+#CHROM	POS	  ID	REF	          ALT	
+ecoli	920514	.	  T	            C	
+ecoli	3931002	.	  A	            C	
+ecoli	4141441	.	  C	            T	
+ecoli	4202391	.	  T	            G	
+ecoli	4530767	.	  CACCCTAACCCT	CACCCTAACCCTAACCCT
+
+
+which variants are shared between two or more samples?
+
+ecoli	  1329520	.	  T to	G is shared between SRR2584403_1 and >SRR2584404_1
+ecoli	4141016	.	    C	to  A is shared between SRR2584403_1 and >SRR2584404_1
