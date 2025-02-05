@@ -8,8 +8,8 @@ ecoli	4141016	.	    C	  A
 #CHROM	POS	    ID	REF	  ALT	
 ecoli	  238917	.	  G	    T	
 ecoli	  806308	.	  ATT	  AT	(Deletion)
-ecoli	  1329520	.	  T	G	
-ecoli	  4141016	.	  C	A	
+ecoli	  1329520	.	  T	    G	
+ecoli	  4141016	.	  C	    A	
 
 >SRR2584405_1
 #CHROM	POS	  ID	REF	                              ALT	
